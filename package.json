@@ -1,0 +1,26 @@
+{
+  "name": "vscode-df15",
+  "version": "0.0.1",
+  "description": "A repository for the Dreamforce 2015 talk titled The Modern Development Workflow with Visual Studio Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeScience/VSCode-DF15.git"
+  },
+  "keywords": [
+    "VSCode",
+    "Salesforce"
+  ],
+  "author": "John Nelson <john.nelson@codescience.com> (http://codescience.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeScience/VSCode-DF15/issues"
+  },
+  "homepage": "https://github.com/CodeScience/VSCode-DF15#readme",
+  "devDependencies": {
+    "karma": "^0.13.7"
+  }
+}
